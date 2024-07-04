@@ -28,3 +28,4 @@
 ？（rating有什么用？能不能和keyword结合，比如不好的rating的keyword也能给信息）->movie list
 3. Prompt（movie list） -> query 总数据库 -> similarity rank
 - prompt需要设计
+- 1
